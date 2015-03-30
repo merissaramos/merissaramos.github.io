@@ -1,0 +1,12 @@
+markdown: rdiscount
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+
+gems:
+  - jekyll-sitemap
+
+name: Merissa Ramos
+url: http://merissaramos.github.io
+description: A fantastic blog that is fantastic.
+twitter: merissaramos
